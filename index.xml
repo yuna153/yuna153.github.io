@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>部落格</title>
+    <link>https://yuna153.github.io/</link>
+    <description>Recent content on 部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yuna153.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D作品</title>
+      <link>https://yuna153.github.io/posts/3d/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuna153.github.io/posts/3d/</guid>
+      <description> - 建模 Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Layout</title>
+      <link>https://yuna153.github.io/posts/webpage/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuna153.github.io/posts/webpage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paint</title>
+      <link>https://yuna153.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuna153.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大學專題</title>
+      <link>https://yuna153.github.io/posts/3dtopics/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuna153.github.io/posts/3dtopics/</guid>
+      <description>&lt;h1 id=&#34;虎傳&#34;&gt;
+  虎傳
+  &lt;a class=&#34;heading-link&#34; href=&#34;#%e8%99%8e%e5%82%b3&#34;&gt;
+    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h1&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://yuna153.github.io/about/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuna153.github.io/about/</guid>
+      <description>嗨 ! 我是家瑜
+畢業於正修科技大學數位多媒體系。
+- 專長 Link to heading 擅長工具
+-影像處理類 : Photoshop、Illustrator
+-多媒體設計類 : Maya、Blender -網頁開發類 : Angular -網頁技術類 : HTML、CSS
+Web Layout
+-熟悉HTML5、CSS3
+-RWD網頁規劃
+Typescript -了解型別系統和ES6規範
+Git
+-使用 Git 進行版本控管與團隊協作
+- 工作經歷 Link to heading 微光科技公司 實習生
+以學生之身份在公司實習，執行雇主或主管交辦之任務。 </description>
+    </item>
+    
+    <item>
+      <title>Códigos curtos</title>
+      <link>https://yuna153.github.io/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>https://yuna153.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://yuna153.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuna153.github.io/contact/</guid>
+      <description> Phone &amp;ndash; 0920231690 Email &amp;ndash; luna89323@gmail.com </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://yuna153.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuna153.github.io/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+  </channel>
+</rss>
