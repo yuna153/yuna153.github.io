@@ -6,34 +6,7 @@
     <description>Recent content in Tags on 部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yuna153.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>development</title>
-      <link>https://yuna153.github.io/tags/development/</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuna153.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://yuna153.github.io/tags/hugo/</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuna153.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://yuna153.github.io/tags/themes/</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuna153.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 04 Jan 2023 11:51:36 +0100</lastBuildDate><atom:link href="https://yuna153.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Códigos curtos</title>
       <link>https://yuna153.github.io/tags/shortcodes/</link>

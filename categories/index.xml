@@ -5,16 +5,6 @@
     <link>https://yuna153.github.io/categories/</link>
     <description>Recent content in Categories on 部落格</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yuna153.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>https://yuna153.github.io/categories/development/</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuna153.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-tw</language><atom:link href="https://yuna153.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
