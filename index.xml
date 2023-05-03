@@ -24,15 +24,17 @@
       <guid>https://yuna153.github.io/about/</guid>
       <description>嗨 ! 我是家瑜
 畢業於正修科技大學數位多媒體系。
+我個性好相處，做事守規矩並刻苦耐勞，也喜歡學習了解新知識。
+我希望能夠換一個環境工作，能將過去的累積做事的方法應用於新的工作上。
 - 專長 Link to heading 擅長工具
 -影像處理類 : Photoshop、Illustrator
--多媒體設計類 : Maya、Blender -網頁開發類 : Angular -網頁技術類 : HTML、CSS
-Web Layout
--熟悉HTML5、CSS3
--RWD網頁規劃
-Typescript -了解型別系統和ES6規範
+-多媒體設計類 : Maya、Blender -網頁開發類 : Angular -網頁技術類 : HTML、CSS、Typescript -版本管理工具:Git 專案版本管裡與團隊協作
+Layout設計
+-RWD 響應式網頁設計 -Single-Page 一頁式網站設計
+程式設計 -Typescript 物件導向(OOP)設計
+-Javascript ES6規範 Functional 設計
 Git
--使用 Git 進行版本控管與團隊協作
+-使用 Git 進行版本控管與團隊協作 -GitHub Pages 靜態網頁
 - 工作經歷 Link to heading 微光科技公司 實習生
 以學生之身份在公司實習，執行雇主或主管交辦之任務。 </description>
     </item>
